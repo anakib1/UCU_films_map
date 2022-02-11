@@ -4,4 +4,4 @@ It also shows 10 random locations of random films.
 
 Usage :
 
-![alt text](https://ibb.co/zGpKGRX)
+![alt text](https://i.ibb.co/5BmqB8r/pic.png)
