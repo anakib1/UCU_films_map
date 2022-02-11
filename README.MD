@@ -6,7 +6,7 @@ To use module you should provide arguments [year] [latitude] [longitude] [path]
 
 For example: 
 
-python3 creator.py 2000 11 11 test.html
+python3 main.py 2000 11 11 test.html
 
 Usage of this will result in such map:
 
